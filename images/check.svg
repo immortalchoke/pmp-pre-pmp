@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M27.914069,14 C27.914069,21.731 21.8631724,28 14.3948966,28 C6.93241379,28 0.879586207,21.731 0.879586207,14 C0.879586207,6.269 6.93241379,0 14.3948966,0 C21.8631724,0 27.914069,6.269 27.914069,14" id="Fill-12" fill="#3578E5"></path>
+            <path d="M11.3494621,22.3896 L6.25732414,17.1166 C5.69153103,16.5306 5.69153103,15.5806 6.25732414,14.9946 C6.82215172,14.4096 7.7393931,14.4096 8.30518621,14.9946 L11.3494621,18.1476 L20.639669,8.5256 C21.2054621,7.9396 22.1217379,7.9396 22.687531,8.5256 C23.2533241,9.1116 23.2533241,10.0606 22.687531,10.6466 L11.3494621,22.3896 Z" id="Fill-13" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
